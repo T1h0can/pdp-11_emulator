@@ -8,17 +8,17 @@ void do_sub();
 void do_mul();
 void do_mov();
 void do_movb();
-void do_inc();	//d++
+void do_inc();		//d++
 void do_incb();
-void do_dec();	//d--
+void do_dec();		//d--
 void do_decb();
 void do_sob();
 void do_clr();
 void do_clrb();
 void do_tst();
 void do_tstb();
-void do_beq();	//Z
-void do_bne();	//!Z
+void do_beq();		//Z
+void do_bne();		//!Z
 void do_bpl();
 void do_br();
 void do_jsr();
