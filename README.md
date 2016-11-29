@@ -10,4 +10,4 @@
 >  ./pdp hello.pdp.o > /dev/null
 
 输出结果如图:
-![hello](https://github.com/T1h0can/pdp-11_emulator/hello.png)
+![hello](https://github.com/T1h0can/pdp-11_emulator/blob/master/hello.png)
